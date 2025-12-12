@@ -1,3 +1,0 @@
-this is first file in git
-git@github.com:Gotoman12/git-repo.git
-
