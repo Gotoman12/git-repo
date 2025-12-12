@@ -1,5 +1,1 @@
-THH
-
-IIOO
-
-UUUII
+This is sample test file
