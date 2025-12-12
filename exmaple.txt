@@ -1,8 +1,0 @@
-This is sample test file
-this asdadsada
-dadsasds
-<<<<<<< HEAD
-this from vs code
-=======
-this is new line
->>>>>>> 95bf8c8 (added new line)
