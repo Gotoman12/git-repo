@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# comment section
 for i in linux windows docker shell docker eks terraform
 do	mkdir $i
 	echo "$i is created"
